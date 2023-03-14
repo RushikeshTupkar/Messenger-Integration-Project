@@ -63,11 +63,11 @@
 
 ## Project Summary
 
-In this application by using various RestApi we can create User.
-We can perform all CRUD operations.
-We can send message to other users.
-we can fetch or delete messages.
-We can visualize data on SQL workbench, swagger.
+- In this application by using various RestApi we can create User.
+- We can perform all CRUD operations.
+- We can send message to other users.
+- we can fetch or delete messages.
+- We can visualize data on SQL workbench, swagger.
 
 
 
