@@ -1,4 +1,4 @@
-# Chat API Project
+# Messenger API Project
 * Swagger
 - http://localhost:8080/swagger-ui.html#/
 ## Frameworks and language used:
