@@ -63,13 +63,11 @@
 
 ## Project Summary
 
-In this application by using various RestApi we can add User, we can associate multiple
-addresses to a perticular User.
-We can add multiple peoducts and can perform CRUD operations.
-we can add Orders based on unique  User's user_id, Address's address_id and Product's produst_id.
-We can validate all details of User like email, phone_number etc.
-we fetch various data using different ewndpoints.
-We can visualize data on SQL workbench. 
+In this application by using various RestApi we can create User.
+We can perform all CRUD operations.
+We can send message to other users.
+we can fetch or delete messages.
+We can visualize data on SQL workbench, swagger.
 
 
 
