@@ -48,30 +48,14 @@
     1. IUserRepository Interface.
     2. IStatusRepository Interface.
     3. IChatHistoryRepository Interface.
-
-* **Service** :
-
-    * In this application there are Four service class .
-        * User Service Class
-        * Address Service Class
-        * Product Service Class
-        * Order Service Class
-
+    
 
 * **Util/Validation** :
-    * In this application there are Four Validation class .
-        * User Validation Class
-        * Address Validation Class
-        * Product Validation Class
-        * Order Validation Class
+    * In this application there is one CommnUtils class.
 
-* **Repository**
+      1.CommnUtils Class
 
-    * In this application there Four Repository class.
-        * IUserRepository
-        * IAddressRepository
-        *  IProductRepository
-        * IOrderTableRepository
+
 
 * **Database**
 
